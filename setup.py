@@ -2,11 +2,11 @@
 
 from distutils.core import setup
 
-setup(name='Distutils',
+setup(name='myUniqueAnalytics',
       version='1.0',
-      description='Python Distribution Utilities',
-      author='Greg Ward',
-      author_email='gward@python.net',
-      url='https://www.python.org/sigs/distutils-sig/',
-      packages=['distutils', 'distutils.command'],
+      description='Python setup test',
+      author='YDD9',
+      author_email='YDD9@unknown.org',
+      url='https://github.com/YDD9/testTodelete.git/',
+      packages=['analytics'],
      )
